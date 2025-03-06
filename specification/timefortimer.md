@@ -52,6 +52,6 @@ If the issue does have a subissue called `Time Tracker` and the last message pos
 
 For the alpha version, the messages, timestamps and issue id could be written to disk in some way (tsv, json file, sqlite3).
 
-### Outstanding
+### Future Considerations
 
-We need some way of storing the credentials for the Linear API. Think this through.
+We will need some way of storing the credentials for the Linear API. This should be thought through.
