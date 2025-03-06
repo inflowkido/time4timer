@@ -34,7 +34,7 @@ A branch should be named after the code owners handle followed by a slash follow
 
 For example:
 
-    will/tim-11-specify-api-for-timefortimer
+    will/tim-11-specify-time4timer-api
 
 ### API and Behavior
 
